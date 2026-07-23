@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Store Metadata — Pause</title>
+<style>
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Georgia,serif;max-width:720px;margin:40px auto;padding:0 20px;line-height:1.6;color:#363935;background:#F9F8F6}
+h1{color:#5B7060;border-bottom:2px solid #D9E2DA;padding-bottom:10px}
+h2{color:#7C9082;margin-top:32px;border-bottom:1px solid #E6E1D8;padding-bottom:4px}
+.meta-box{background:#F1EFEB;padding:16px;border-radius:12px;margin:16px 0;border:1px solid #E6E1D8}
+.field{margin-bottom:16px}
+.label{font-weight:bold;color:#595E58;font-size:14px;text-transform:uppercase;display:block}
+.value{background:#fff;padding:8px 12px;border-radius:6px;border:1px solid #D9E2DA;margin-top:4px;font-family:monospace}
+.value-long{white-space:pre-wrap;font-family:inherit}
+</style>
+</head>
+<body>
+<h1>Store Metadata — Pause</h1>
+<p>Copia e incolla questi testi direttamente all'interno di <strong>App Store Connect</strong> e <strong>Google Play Console</strong>.</p>
+
+<h2>App Store (Apple)</h2>
+<div class="meta-box">
+  <div class="field">
+    <span class="label">Nome App (Max 30 car.)</span>
+    <div class="value">Pause — Meno Telefono, Più Vita</div>
+  </div>
+  <div class="field">
+    <span class="label">Sottotitolo (Max 30 car.)</span>
+    <div class="value">Benessere digitale e focus</div>
+  </div>
+  <div class="field">
+    <span class="label">Testo Promozionale (Max 170 car.)</span>
+    <div class="value">Riprendi il controllo del tuo tempo. Riduci lo scrolling, supera le sfide quotidiane e ritrova il focus con il tuo Coach AI personale. 100% privato.</div>
+  </div>
+  <div class="field">
+    <span class="label">Parole Chiave / Keywords (Max 100 car. totali)</span>
+    <div class="value">pause,focus,tempo,schermo,digital,detox,benessere,produttivita,coach,ai,meditazione,scrolling,limiti</div>
+  </div>
+  <div class="field">
+    <span class="label">Descrizione Lunga</span>
+    <div class="value value-long">Vivi il momento. Lascia andare lo smartphone.
+
+Pause è lo strumento essenziale per il tuo benessere digitale, progettato per aiutarti a ridurre il tempo di utilizzo del telefono in modo naturale, senza ansia e senza restrizioni forzate. Unisciti a una filosofia di vita più consapevole e ritrova la concentrazione per le cose che contano davvero.
+
+Perché scegliere Pause?
+
+• 100% PRIVATA E LOCALE: Nessun account, nessuna registrazione, nessuna email richiesta. I tuoi dati di utilizzo non lasciano mai il tuo dispositivo. La tua privacy è sacra.
+• COACH AI INTEGRATO: Un assistente virtuale privato, basato su tecnologia avanzata (Anthropic Claude), pronto a darti consigli personalizzati, strategie di focus e motivazione quando senti il bisogno di sbloccare lo schermo.
+• SESSIONI FOCUS & SFIDE: Mettiti alla prova con sfide quotidiane e sessioni di focus per staccare la mente dai social ed evitare lo scrolling compulsivo.
+• STATISTICHE SEMPLICI: Monitora i tuoi progressi nel tempo in modo chiaro e minimale, senza grafici ansiogeni.
+
+Pause è un'applicazione guidata da una filosofia "privacy-first". Funziona offline, non vende i tuoi dati e include solo acquisti o donazioni volontarie una tantum per sostenere lo sviluppo indipendente, senza abbonamenti nascosti.
+
+Inizia oggi il tuo percorso di digital detox. Fai una pausa.</div>
+  </div>
+</div>
+
+<h2>Google Play Store (Google)</h2>
+<div class="meta-box">
+  <div class="field">
+    <span class="label">Nome App (Max 30 car.)</span>
+    <div class="value">Pause — Benessere Digitale</div>
+  </div>
+  <div class="field">
+    <span class="label">Descrizione Breve (Max 80 car.)</span>
+    <div class="value">Riduci il tempo sullo schermo, vinci le sfide e ritrova il focus con l'AI.</div>
+  </div>
+</div>
+
+</body>
+</html>
